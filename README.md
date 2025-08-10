@@ -61,31 +61,31 @@ It includes:
 ## 📷 Dashboard Previews
 
 ### 🏆 Points Table
-![Points Table](./images/Page-1.png)  
+![Points Table](./Images/Page-2.png)  
 *Shows season standings with matches, wins, losses, NRR, and points.*
 
 ### 📅 Match Schedule
-![Match Schedule](./images/Page-2.png)  
+![Match Schedule](./Images/Page-4.png)  
 *Displays upcoming matches with date, venue, and participating teams.*
 
 ### 🥇 Orange Cap Leaders
-![Orange Cap](./images/Page-3.png)  
+![Orange Cap](./Images/Page-5.png)  
 *Top run scorers with runs, strike rate, and boundaries.*
 
 ### 🎯 Purple Cap Leaders
-![Purple Cap](./images/Page-4.png)  
+![Purple Cap](./Images/Page-5.png)  
 *Top wicket-takers with wickets, economy rate, and average.*
 
 ### 📊 Historical Team Runs
-![Team Runs](./images/Page-5.png)  
+![Team Runs](./Images/Page-8.png)  
 *Team-wise total runs over IPL seasons.*
 
 ### ⚡ Balls and Wides Analysis
-![Balls and Wides](./images/Page-6.png)  
+![Balls and Wides](./Images/Page-9.png)  
 *Comparison of balls bowled and wides conceded per team.*
 
 ### 📍 Performance by City
-![Performance by City](./images/Page-7.png)  
+![Performance by City](./Images/Page-9.png)  
 *Win rates across different IPL host cities.*
 
 ### 📜 Match Summary
