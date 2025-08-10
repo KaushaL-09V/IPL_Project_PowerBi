@@ -102,11 +102,6 @@ Alternatively, view it online via [Power BI Service Link] (if published).
 
 ---
 
-## 📬 Contact
-For questions, feedback, or collaboration:
-- **Your Name**
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn]
-- **GitHub:** [Your GitHub Profile]
+
 
 ---
