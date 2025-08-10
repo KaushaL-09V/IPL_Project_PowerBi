@@ -60,21 +60,25 @@ It includes:
 
 ## 📷 Dashboard Previews
 
+### 🏆 Dashboard
+![Points Table](./Images/Page_1.png)  
+*Shows Home page.*
+
 ### 🏆 Points Table
-![Points Table](./Images/Page-2.png)  
+![Points Table](./Images/Page_2.png)  
 *Shows season standings with matches, wins, losses, NRR, and points.*
 
 ### 📅 Match Schedule
 ![Match Schedule](./Images/Page-4.png)  
 *Displays upcoming matches with date, venue, and participating teams.*
 
-### 🥇 Orange Cap Leaders
+### 🥇 Orange Cap & Purple Cap Leaders
 ![Orange Cap](./Images/Page-5.png)  
 *Top run scorers with runs, strike rate, and boundaries.*
 
-### 🎯 Purple Cap Leaders
-![Purple Cap](./Images/Page-5.png)  
-*Top wicket-takers with wickets, economy rate, and average.*
+### 🎯 Team Players
+![Purple Cap](./Images/Page-3.png)  
+*Shoes Each Team playes.*
 
 ### 📊 Historical Team Runs
 ![Team Runs](./Images/Page-8.png)  
