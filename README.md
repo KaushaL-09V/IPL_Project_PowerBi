@@ -74,27 +74,24 @@ It includes:
 
 ### 🥇 Orange Cap & Purple Cap Leaders
 ![Orange Cap](./Images/Page-5.png)  
-*Top run scorers with runs, strike rate, and boundaries.*
+*Top run scorers with runs, strike rate, and boundaries & Top Wicket Takers.*
 
 ### 🎯 Team Players
 ![Purple Cap](./Images/Page-3.png)  
-*Shoes Each Team playes.*
+*Shoes Each Team players.*
 
 ### 📊 Historical Team Runs
-![Team Runs](./Images/Page-8.png)  
+![Team Runs](./Images/Page-6.png)  
 *Team-wise total runs over IPL seasons.*
 
 ### ⚡ Balls and Wides Analysis
-![Balls and Wides](./Images/Page-9.png)  
+![Balls and Wides](./Images/Page-7.png)  
 *Comparison of balls bowled and wides conceded per team.*
 
-### 📍 Performance by City
+### 📍 Champion Team per year
 ![Performance by City](./Images/Page-9.png)  
-*Win rates across different IPL host cities.*
 
-### 📜 Match Summary
-![Match Summary](./images/Page-8.png)  
-*Detailed match performance statistics.*
+
 
 ---
 
