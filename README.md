@@ -60,7 +60,7 @@ It includes:
 ## 📷 Dashboard Previews
 
 ### 🏆 Points Table
-![Points Table](./ace1202d-91c6-4b23-bda2-7c75689347a0.png)
+![Points Table]([./ace1202d-91c6-4b23-bda2-7c75689347a0.png](https://drive.google.com/file/d/1mSob0nZ01m5x4o7grzkcqbB6OLOY1LmE/view?usp=sharing))
 *Shows season standings with matches, wins, losses, NRR, and points.*
 
 ### 📅 Match Schedule
